@@ -1,0 +1,19 @@
+{
+  "name": "mqtt-clients",
+  "version": "1.0.0",
+  "description": "Websocket and MQTT clients ",
+  "main": "mqttPub02.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "mqtt",
+    "publish",
+    "subscribe"
+  ],
+  "author": "DJR / ravenOSS",
+  "license": "AGPL-3.0-or-later",
+  "dependencies": {
+    "mqtt": "^2.18.8"
+  }
+}
