@@ -6,7 +6,7 @@
     "start": "node ./bin/www"
   },
   "dependencies": {
-    "aedes": "^0.35.3",
+    "aedes": "^0.42.1",
     "aedes-persistence-redis": "^6.0.0",
     "cookie-parser": "~1.4.3",
     "debug": "~2.6.9",
